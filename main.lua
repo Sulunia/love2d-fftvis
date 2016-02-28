@@ -7,7 +7,7 @@ Song = "Song/TimeBomb.mp3" --You have to put your songs somewhere along the main
 
 function devide(list, factor)
   for i,v in ipairs(list) do list[i] = list[i] * factor end
-  -- This function multiplies every value in the list of frequencies for a given constant. Think of it as a sensibility setting.
+  -- This function multiplies every value in the list of frequencies for a given constant.Think of it as a sensibility setting.
 end
 
 
