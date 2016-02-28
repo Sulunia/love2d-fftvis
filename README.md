@@ -1,4 +1,5 @@
 # love2d-fftvis
+![Screenshot](http://i.imgur.com/X59JjnV.png)
 FFTVis a simple music player with a bar visualization. Full commented source code.
 
 ##How to run this
